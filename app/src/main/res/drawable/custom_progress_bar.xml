@@ -1,0 +1,29 @@
+<!-- res/drawable/custom_progress_bar.xml -->
+<!-- res/drawable/rounded_progress_bar.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background Layer (with rounded corners) -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="8dp" /> <!-- Điều chỉnh độ bo tròn tại đây -->
+            <solid android:color="#EDEBEB" /> <!-- Màu nền của ProgressBar -->
+        </shape>
+    </item>
+
+    <!-- Progress Layer -->
+    <item android:id="@android:id/progress">
+        <scale android:scaleWidth="100%">
+            <shape android:shape="rectangle">
+                <corners android:radius="8dp" /> <!-- Điều chỉnh độ bo tròn tại đây -->
+                <gradient
+                    android:startColor="#26FF7B31"
+                    android:endColor="#FF7B31"
+                    android:startY="0.0"
+                    android:endY="1.0"
+                    android:type="linear"/>
+            </shape>
+        </scale>
+    </item>
+
+</layer-list>
+

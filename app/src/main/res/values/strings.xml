@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Notisave</string>
+    <string name="block_notifications">Chặn thông báo</string>
+    <string name="settings">Cài đặt</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="next">Next</string>
+    <string name="add_to_group">Add to group</string>
+    <string name="add_group">Add to group\n</string>
+    <string name="access_notifications">Truy cập thông báo</string>
+    <string name="general">Chung</string>
+    <string name="clear_data">Xóa</string>
+    <string name="privacy">Quyền riêng tư</string>
+    <string name="passcode">Mã khóa</string>
+    <string name="edit_group">Chỉnh sửa nhóm</string>
+    <string name="notification">Thông báo</string>
+    <string name="turn_on_off_all_app">Tất cả các ứng dụng</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="title_passcode">Vui lòng nhập mã khóa của bạn</string>
+    <string name="number1">1</string>
+    <string name="number2">2</string>
+    <string name="number3">3</string>
+    <string name="number4">4</string>
+    <string name="number5">5</string>
+    <string name="number6">6</string>
+    <string name="number7">7</string>
+    <string name="number8">8</string>
+    <string name="number9">9</string>
+    <string name="number0">0</string>
+    <string name="nameGroup">Tên nhóm</string>
+    <string name="title_more_progress_bar">Loại bỏ các lưu thông báo sau 12 giờ</string>
+    <string name="title_free_more_progress_bar">Miễn phí</string>
+    <string name="textNext">Tiếp</string>
+    <string name="search_history">Lịch sử tìm kiếm</string>
+    <string name="delete_all">Xóa tất cả</string>
+</resources>
